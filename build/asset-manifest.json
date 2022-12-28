@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1be546e.css",
+    "main.js": "/static/js/main.617ac842.js",
+    "static/js/787.b07e44f5.chunk.js": "/static/js/787.b07e44f5.chunk.js",
+    "static/media/Artwork_Vinayaka.jpg": "/static/media/Artwork_Vinayaka.741cd7a4decfe1989bf5.jpg",
+    "static/media/signature.jpg": "/static/media/signature.14edab3769bb2710d2da.jpg",
+    "index.html": "/index.html",
+    "main.e1be546e.css.map": "/static/css/main.e1be546e.css.map",
+    "main.617ac842.js.map": "/static/js/main.617ac842.js.map",
+    "787.b07e44f5.chunk.js.map": "/static/js/787.b07e44f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1be546e.css",
+    "static/js/main.617ac842.js"
+  ]
+}
